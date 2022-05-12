@@ -1,0 +1,3 @@
+/usr/bin/bc -l /home/mywork/Work/Prog3/in01.txt /home/mywork/Work/Prog3/out01.txt
+/usr/bin/sleep 15 /home/mywork/Work/Prog3/in02.txt /home/mywork/Work/Prog3/out02.txt
+/usr/bin/sort /home/mywork/Work/Prog3/in03.txt /home/mywork/Work/Prog3/out03.txt

@@ -1,0 +1,1 @@
+/usr/bin/bc -l /home/mywork/Work/Prog3/in04.txt /home/mywork/Work/Prog3/out04.txt
